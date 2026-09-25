@@ -1,0 +1,69 @@
+{
+  "lastUpdated": "2026-09-18 19:24:26",
+  "regions": [
+    {
+      "categories": [
+        "PVP",
+        "SPRINTERS"
+      ],
+      "customProperties": {
+        "message": "Voce acabou de entrar em territorio hostil e de infeccao alta! Cuidado extremo!",
+        "pvpEnabled": true,
+        "sprinterChance": 100,
+        "zombieDensity": 5,
+        "zombieSpeed": 3
+      },
+      "enabled": true,
+      "id": "lousville_test_area",
+      "name": "Lousville test area",
+      "x1": 12590,
+      "x2": 12609,
+      "y1": 810,
+      "y2": 904,
+      "z": 0
+    },
+    {
+      "categories": {},
+      "customProperties": {
+        "announceEntry": false,
+        "announceExit": false,
+        "maxHits": 1,
+        "message": "",
+        "pvpEnabled": true,
+        "shamblerChance": 0,
+        "sprinterChance": 1,
+        "toughnessChance": 0
+      },
+      "enabled": true,
+      "id": "maze_pvp_",
+      "name": "MAZE PVP! ",
+      "x1": 10773,
+      "x2": 11141,
+      "y1": 6268,
+      "y2": 6635,
+      "z": 0
+    },
+    {
+      "categories": {},
+      "customProperties": {
+        "announceEntry": true,
+        "announceExit": true,
+        "maxHits": 1,
+        "message": "",
+        "pvpEnabled": true,
+        "shamblerChance": 0,
+        "sprinterChance": 0,
+        "toughnessChance": 0
+      },
+      "enabled": true,
+      "id": "fight_club",
+      "name": "FIGHT CLUB!",
+      "x1": 435,
+      "x2": 447,
+      "y1": 9836,
+      "y2": 9851,
+      "z": 0
+    }
+  ],
+  "version": "1.0"
+}

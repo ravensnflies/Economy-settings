@@ -1,0 +1,77 @@
+{
+  "journals" : {
+    "Watts-1789828751443-1811166207" : {
+      "identity" : {
+        "steamID" : 76561199044331200,
+        "username" : "Watts"
+      },
+      "gainedXP" : {
+        "Blunt" : 13882.13,
+        "Nimble" : 435.09,
+        "Sprinting" : 1647.28,
+        "Woodwork" : 18825.91,
+        "Maintenance" : 339.82,
+        "SmallBlunt" : 102.84,
+        "MartialArts" : 742.19,
+        "Cooking" : 40
+      },
+      "flatGainedXP" : {},
+      "learnedRecipes" : {
+        "MakeRailspikeCudgel" : true,
+        "MakeSawbladeWeapon" : true,
+        "MakeBrakeWeapon" : true,
+        "MakeSawbladeLongHandle" : true,
+        "SheetMetalWeapon" : true,
+        "MakeSawbladePlank" : true,
+        "RailspikeBaseballBat" : true,
+        "MakeSawPlank" : true,
+        "CanReinforceWeapon" : true,
+        "CanReinforceLongWeapon" : true,
+        "MakeFireExtinguisherSledge" : true,
+        "MakeNailShortSword" : true,
+        "MakeDaggerHandAxe" : true,
+        "MakeCleaverAxe" : true,
+        "MakeZuluShortSpear" : true,
+        "BarbedWireWeapon" : true,
+        "MakeSawBladeClaw" : true,
+        "MakeGlassShiv" : true,
+        "CanReinforceShortWeapon" : true,
+        "MakeCrudeWhetstone" : true,
+        "CraftMakeshiftRadio" : true,
+        "MakeCarBatterySledge" : true,
+        "MakeElectricAxe" : true,
+        "MakeElectricSword" : true,
+        "MakeElectricBaseballBat" : true,
+        "MakeElectricShovel" : true,
+        "MakeElectricRailSpikeSpear" : true,
+        "MakeScrewdriver" : true,
+        "MakeSawBoltCutters" : true,
+        "MakeSpadeHeadCudgel" : true,
+        "MakeSawbladeTableLeg" : true,
+        "MakeGardenForkHeadWeapon" : true,
+        "MakeRakeHeadWeapon" : true,
+        "MakeSawbladeCudgel" : true
+      },
+      "kills" : {},
+      "pModData" : {},
+      "lastInteracted" : {
+        "timestampMs" : 1790110592980,
+        "x" : 5577,
+        "y" : 9368,
+        "z" : -1
+      },
+      "usedXP" : {
+        "flat" : {},
+        "Blunt" : 23323.68,
+        "Nimble" : 624.67,
+        "Sprinting" : 5645.02,
+        "Woodwork" : 93982.48,
+        "Maintenance" : 1360.92,
+        "SmallBlunt" : 512.96,
+        "MartialArts" : 3259.5
+      },
+      "author" : "Tungston Watts",
+      "renamedJournal" : true
+    }
+  }
+}

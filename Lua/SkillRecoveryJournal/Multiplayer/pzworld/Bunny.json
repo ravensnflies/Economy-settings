@@ -1,0 +1,43 @@
+{
+  "journals" : {
+    "Bunny-1789348322052-748984655" : {
+      "identity" : {
+        "steamID" : 76561198407998220,
+        "username" : "Bunny"
+      },
+      "gainedXP" : {
+        "Blunt" : 227.97,
+        "Lightfoot" : 164,
+        "Nimble" : 184,
+        "Sprinting" : 751.99,
+        "Sneak" : 148,
+        "PlantScavenging" : 657.51,
+        "Maintenance" : 68,
+        "SmallBlunt" : 10.67,
+        "Electricity" : 132,
+        "Husbandry" : 99.19
+      },
+      "flatGainedXP" : {},
+      "learnedRecipes" : {
+        "MakeAphidsCure" : true,
+        "MakeFliesCureFromChewingTobacco" : true,
+        "MakeFliesCureFromLooseTobacco" : true,
+        "MakeFliesCureFromCigarettes" : true,
+        "GTMOrganizedTrait" : true,
+        "GTMDextrousTrait" : true
+      },
+      "kills" : {},
+      "pModData" : {},
+      "lastInteracted" : {
+        "timestampMs" : 1789359954071,
+        "x" : 5686,
+        "y" : 5765,
+        "z" : 0
+      },
+      "usedXP" : {
+        "flat" : {}
+      },
+      "author" : "Emily Strange"
+    }
+  }
+}
