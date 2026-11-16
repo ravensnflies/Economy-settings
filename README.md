@@ -291,7 +291,7 @@ The supplied archive includes references that should be resolved against the act
 - `token_24` is referenced by one vehicle definition but is not present in the supplied custom Prices file.
 - The sapphire and ruby payout definitions contain removal markers instead of the same active `kind: pawn` structure used by several other gem payouts.
 
-These references may depend on built-in definitions, prior server configuration, or intended overrides. Their existence or absence in the supplied archive alone does not establish whether a deployed PhunMart installation will resolve them.
+PhunEconomy uses definitions supplied by the installed PhunMart framework and compatible third-party mods. Some referenced identifiers are intentionally external to this repository. Shop functionality depends on the relevant framework components being installed, and unavailable modded items may be excluded by PhunMart's inventory-resolution logic.
 
 Administrators should verify resulting offers, item availability, payout values, and shop behavior before using this configuration in a production economy.
 
